@@ -1,4 +1,4 @@
-![Untitled](https://user-images.githubusercontent.com/55392638/114945002-318b5600-9e66-11eb-9745-2e460dd93008.png)
+
 Customer Billing System
 
 [![CI](https://github.com/mohitraj1050/stepinminiproject/actions/workflows/main.yml/badge.svg)](https://github.com/mohitraj1050/stepinminiproject/actions/workflows/main.yml)
