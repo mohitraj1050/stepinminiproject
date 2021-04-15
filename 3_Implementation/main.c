@@ -44,7 +44,7 @@ void main()
 	  
 	  do{
 	      // while(getchar() != '\n');
-	       printf("\nSelect what do you want to do?\n ");
+	       printf("\nSelect what do you want to do?\n "); // while
 	       scanf("%c",&ch);
 	       while(getchar() != '\n');
 	  }while(ch<='0' || ch>'3');
